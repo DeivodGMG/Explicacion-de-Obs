@@ -7,7 +7,7 @@
 
 Open Broadcaster Software o tambien conocido como OBS, es una aplicación libre y de código abierto para la grabación y transmisión de vídeo por internet (streaming), mantenida por OBS Project. OBS utiliza la **licencia** GPLv2 (GNU General Public License, versión 2), una licencia de uso libre para cualquier persona.
 
-## Soporte para.
+## Soporte para:
 ![MIT License](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GPLv3 License](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![AGPL License](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -54,5 +54,5 @@ Sin costos adicionales: No necesitas pagar por funciones avanzadas, ya que todas
 Ahorro en hardware: Su optimización permite realizar transmisiones de alta calidad incluso en equipos de gama media, reduciendo costos asociados a hardware especializado.
 ## 👓 Autor
 
-- David Alejandro Ibarra Castañeda
-- Matricula: 2430249
+- *Alumno:* David Alejandro Ibarra Castañeda
+- *Matricula:* 2430249
