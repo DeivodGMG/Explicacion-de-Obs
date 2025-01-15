@@ -1,3 +1,5 @@
+## ¡Hola! Mucho gusto, Mi nombre es David Ibarra 👋
+🎯 A continuacion, veran una breve investigacion acerca de la aplicacion / software **OBS**. La mejor aplicacion para grabar y hacer streamings.
 #   🎞️ OBS (Un software de codigo libre)
 
 ![Logo](https://www.muylinux.com/wp-content/uploads/2021/06/OBS-Studio.jpg)
