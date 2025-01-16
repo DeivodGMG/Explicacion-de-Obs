@@ -16,9 +16,8 @@ Open Broadcaster Software o tambien conocido como OBS, es una aplicación libre 
 ## ⚙️ Requisitos
 
 #### Si tu sistema operativo cumple con los siguientes criterios, OBS es compatible para tu uso.
-| Windows 10 Y 11 | macOS 10.15 o posterior     | Linux Ubuntu 14.04 o posterior                |
-| :-------- | :------- | :------------------------- |
-| `64 bits` | `64 bits` | `64 bits` |
+| Windows 10 Y 11 / `64 bits` | macOS 10.15 o posterior / `64 bits`   | Linux Ubuntu 14.04 o posterior  / `64 bits` |
+
 
 
 ## 📃 Instalacion paso por paso
@@ -58,5 +57,4 @@ Ahorro en hardware: Su optimización permite realizar transmisiones de alta cali
 
 - *Alumno:* David Alejandro Ibarra Castañeda
 - *Matricula:* 2430249
-## 
 ![Logo](https://i.pinimg.com/originals/5f/a2/1e/5fa21e87a7cb96c451ad49236e93b434.gif)
