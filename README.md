@@ -56,5 +56,5 @@ Ahorro en hardware: Su optimización permite realizar transmisiones de alta cali
 ## 👓 Autor
 
 - *Alumno:* David Alejandro Ibarra Castañeda
-- *Matricula:* 2430249
+
 ![Logo](https://i.pinimg.com/originals/5f/a2/1e/5fa21e87a7cb96c451ad49236e93b434.gif)
